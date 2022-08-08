@@ -1,0 +1,8 @@
+table,td,tr{
+    border-style: solid;
+    border-width: 0.1px;
+}
+
+td:hover{
+    background-color: lightblue;
+}

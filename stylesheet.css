@@ -3,6 +3,6 @@ table,td,tr{
     border-width: 0.1px;
 }
 
-td:hover{
+tr:hover{
     background-color: lightblue;
 }
